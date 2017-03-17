@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<smile version="1.0" id="Unnamed" numsamples="1000" discsamples="10000">
+	<nodes>
+		<cpt id="X9_11">
+			<state id="mine" />
+			<state id="nomine" />
+			<probabilities>0.1568627450980392 0.8431372549019608</probabilities>
+		</cpt>
+		<cpt id="X9_12">
+			<state id="mine" />
+			<state id="nomine" />
+			<probabilities>0.1568627450980392 0.8431372549019608</probabilities>
+		</cpt>
+		<cpt id="X9_13">
+			<state id="mine" />
+			<state id="nomine" />
+			<probabilities>0.1568627450980392 0.8431372549019608</probabilities>
+		</cpt>
+		<cpt id="X10_11">
+			<state id="mine" />
+			<state id="nomine" />
+			<probabilities>0.1568627450980392 0.8431372549019608</probabilities>
+		</cpt>
+		<cpt id="X10_13">
+			<state id="mine" />
+			<state id="nomine" />
+			<probabilities>0.1568627450980392 0.8431372549019608</probabilities>
+		</cpt>
+		<cpt id="X11_11">
+			<state id="mine" />
+			<state id="nomine" />
+			<probabilities>0.1568627450980392 0.8431372549019608</probabilities>
+		</cpt>
+		<cpt id="X11_12">
+			<state id="mine" />
+			<state id="nomine" />
+			<probabilities>0.1568627450980392 0.8431372549019608</probabilities>
+		</cpt>
+		<cpt id="X11_13">
+			<state id="mine" />
+			<state id="nomine" />
+			<probabilities>0.1568627450980392 0.8431372549019608</probabilities>
+		</cpt>
+		<deterministic id="Y10_12">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X9_11 X9_12 X9_13 X10_11 X10_13 X11_11 X11_12 X11_13</parents>
+			<resultingstates>S8 S7 S7 S6 S7 S6 S6 S5 S7 S6 S6 S5 S6 S5 S5 S4 S7 S6 S6 S5 S6 S5 S5 S4 S6 S5 S5 S4 S5 S4 S4 S3 S7 S6 S6 S5 S6 S5 S5 S4 S6 S5 S5 S4 S5 S4 S4 S3 S6 S5 S5 S4 S5 S4 S4 S3 S5 S4 S4 S3 S4 S3 S3 S2 S7 S6 S6 S5 S6 S5 S5 S4 S6 S5 S5 S4 S5 S4 S4 S3 S6 S5 S5 S4 S5 S4 S4 S3 S5 S4 S4 S3 S4 S3 S3 S2 S6 S5 S5 S4 S5 S4 S4 S3 S5 S4 S4 S3 S4 S3 S3 S2 S5 S4 S4 S3 S4 S3 S3 S2 S4 S3 S3 S2 S3 S2 S2 S1 S7 S6 S6 S5 S6 S5 S5 S4 S6 S5 S5 S4 S5 S4 S4 S3 S6 S5 S5 S4 S5 S4 S4 S3 S5 S4 S4 S3 S4 S3 S3 S2 S6 S5 S5 S4 S5 S4 S4 S3 S5 S4 S4 S3 S4 S3 S3 S2 S5 S4 S4 S3 S4 S3 S3 S2 S4 S3 S3 S2 S3 S2 S2 S1 S6 S5 S5 S4 S5 S4 S4 S3 S5 S4 S4 S3 S4 S3 S3 S2 S5 S4 S4 S3 S4 S3 S3 S2 S4 S3 S3 S2 S3 S2 S2 S1 S5 S4 S4 S3 S4 S3 S3 S2 S4 S3 S3 S2 S3 S2 S2 S1 S4 S3 S3 S2 S3 S2 S2 S1 S3 S2 S2 S1 S2 S1 S1 S0</resultingstates>
+		</deterministic>
+	</nodes>
+	<extensions>
+		<genie version="1.0" app="SMILE Feb 18 2012" name="Unnamed" faultnameformat="nodestate">
+			<node id="X9_11">
+				<name>X9_11</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="X9_12">
+				<name>X9_12</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="X9_13">
+				<name>X9_13</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="X10_11">
+				<name>X10_11</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="X10_13">
+				<name>X10_13</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="X11_11">
+				<name>X11_11</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="X11_12">
+				<name>X11_12</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="X11_13">
+				<name>X11_13</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y10_12">
+				<name>Y10_12</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+		</genie>
+	</extensions>
+</smile>

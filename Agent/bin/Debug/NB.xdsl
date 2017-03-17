@@ -1,0 +1,3541 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<smile version="1.0" id="Unnamed" numsamples="1000" discsamples="10000">
+	<nodes>
+		<cpt id="X1_1">
+			<state id="mine" />
+			<state id="nomine" />
+			<probabilities>1 0</probabilities>
+		</cpt>
+		<cpt id="X1_3">
+			<state id="mine" />
+			<state id="nomine" />
+			<probabilities>1 0</probabilities>
+		</cpt>
+		<cpt id="X2_1">
+			<state id="mine" />
+			<state id="nomine" />
+			<probabilities>1 0</probabilities>
+		</cpt>
+		<cpt id="X2_4">
+			<state id="mine" />
+			<state id="nomine" />
+			<probabilities>1 0</probabilities>
+		</cpt>
+		<cpt id="X2_14">
+			<state id="mine" />
+			<state id="nomine" />
+			<probabilities>1 0</probabilities>
+		</cpt>
+		<cpt id="X3_4">
+			<state id="mine" />
+			<state id="nomine" />
+			<probabilities>1 0</probabilities>
+		</cpt>
+		<cpt id="X3_6">
+			<state id="mine" />
+			<state id="nomine" />
+			<probabilities>1 0</probabilities>
+		</cpt>
+		<cpt id="X3_13">
+			<state id="mine" />
+			<state id="nomine" />
+			<probabilities>1 0</probabilities>
+		</cpt>
+		<cpt id="X4_3">
+			<state id="mine" />
+			<state id="nomine" />
+			<probabilities>1 0</probabilities>
+		</cpt>
+		<cpt id="X4_8">
+			<state id="mine" />
+			<state id="nomine" />
+			<probabilities>1 0</probabilities>
+		</cpt>
+		<cpt id="X4_13">
+			<state id="mine" />
+			<state id="nomine" />
+			<probabilities>1 0</probabilities>
+		</cpt>
+		<cpt id="X5_15">
+			<state id="mine" />
+			<state id="nomine" />
+			<probabilities>1 0</probabilities>
+		</cpt>
+		<cpt id="X6_11">
+			<state id="mine" />
+			<state id="nomine" />
+			<probabilities>1 0</probabilities>
+		</cpt>
+		<cpt id="X6_15">
+			<state id="mine" />
+			<state id="nomine" />
+			<probabilities>1 0</probabilities>
+		</cpt>
+		<cpt id="X7_2">
+			<state id="mine" />
+			<state id="nomine" />
+			<probabilities>1 0</probabilities>
+		</cpt>
+		<cpt id="X7_10">
+			<state id="mine" />
+			<state id="nomine" />
+			<probabilities>1 0</probabilities>
+		</cpt>
+		<cpt id="X8_3">
+			<state id="mine" />
+			<state id="nomine" />
+			<probabilities>1 0</probabilities>
+		</cpt>
+		<cpt id="X8_9">
+			<state id="mine" />
+			<state id="nomine" />
+			<probabilities>1 0</probabilities>
+		</cpt>
+		<cpt id="X8_11">
+			<state id="mine" />
+			<state id="nomine" />
+			<probabilities>1 0</probabilities>
+		</cpt>
+		<cpt id="X9_5">
+			<state id="mine" />
+			<state id="nomine" />
+			<probabilities>1 0</probabilities>
+		</cpt>
+		<cpt id="X9_9">
+			<state id="mine" />
+			<state id="nomine" />
+			<probabilities>1 0</probabilities>
+		</cpt>
+		<cpt id="X9_11">
+			<state id="mine" />
+			<state id="nomine" />
+			<probabilities>1 0</probabilities>
+		</cpt>
+		<cpt id="X9_13">
+			<state id="mine" />
+			<state id="nomine" />
+			<probabilities>1 0</probabilities>
+		</cpt>
+		<cpt id="X9_14">
+			<state id="mine" />
+			<state id="nomine" />
+			<probabilities>1 0</probabilities>
+		</cpt>
+		<cpt id="X9_15">
+			<state id="mine" />
+			<state id="nomine" />
+			<probabilities>1 0</probabilities>
+		</cpt>
+		<cpt id="X10_14">
+			<state id="mine" />
+			<state id="nomine" />
+			<probabilities>1 0</probabilities>
+		</cpt>
+		<cpt id="X11_3">
+			<state id="mine" />
+			<state id="nomine" />
+			<probabilities>1 0</probabilities>
+		</cpt>
+		<cpt id="X12_1">
+			<state id="mine" />
+			<state id="nomine" />
+			<probabilities>1 0</probabilities>
+		</cpt>
+		<cpt id="X12_11">
+			<state id="mine" />
+			<state id="nomine" />
+			<probabilities>1 0</probabilities>
+		</cpt>
+		<cpt id="X13_3">
+			<state id="mine" />
+			<state id="nomine" />
+			<probabilities>1 0</probabilities>
+		</cpt>
+		<cpt id="X13_6">
+			<state id="mine" />
+			<state id="nomine" />
+			<probabilities>1 0</probabilities>
+		</cpt>
+		<cpt id="X13_11">
+			<state id="mine" />
+			<state id="nomine" />
+			<probabilities>1 0</probabilities>
+		</cpt>
+		<cpt id="X13_13">
+			<state id="mine" />
+			<state id="nomine" />
+			<probabilities>1 0</probabilities>
+		</cpt>
+		<cpt id="X13_14">
+			<state id="mine" />
+			<state id="nomine" />
+			<probabilities>1 0</probabilities>
+		</cpt>
+		<cpt id="X14_9">
+			<state id="mine" />
+			<state id="nomine" />
+			<probabilities>1 0</probabilities>
+		</cpt>
+		<cpt id="X14_10">
+			<state id="mine" />
+			<state id="nomine" />
+			<probabilities>1 0</probabilities>
+		</cpt>
+		<cpt id="X15_2">
+			<state id="mine" />
+			<state id="nomine" />
+			<probabilities>1 0</probabilities>
+		</cpt>
+		<cpt id="X15_4">
+			<state id="mine" />
+			<state id="nomine" />
+			<probabilities>1 0</probabilities>
+		</cpt>
+		<cpt id="X15_5">
+			<state id="mine" />
+			<state id="nomine" />
+			<probabilities>1 0</probabilities>
+		</cpt>
+		<cpt id="X15_14">
+			<state id="mine" />
+			<state id="nomine" />
+			<probabilities>1 0</probabilities>
+		</cpt>
+		<cpt id="X15_15">
+			<state id="mine" />
+			<state id="nomine" />
+			<probabilities>0 1</probabilities>
+		</cpt>
+		<deterministic id="Y0_0">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X1_1</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y0_1">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X1_1</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y0_2">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X1_1 X1_3</parents>
+			<resultingstates>S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y0_3">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X1_3</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y0_4">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X1_3</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y1_0">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X1_1 X2_1</parents>
+			<resultingstates>S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y1_2">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X1_1 X1_3 X2_1</parents>
+			<resultingstates>S3 S2 S2 S1 S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y1_4">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X1_3 X2_4</parents>
+			<resultingstates>S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y1_5">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X2_4</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y1_13">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X2_14</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y1_14">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X2_14</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y1_15">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X2_14</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y2_0">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X1_1 X2_1</parents>
+			<resultingstates>S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y2_2">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X1_1 X1_3 X2_1</parents>
+			<resultingstates>S3 S2 S2 S1 S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y2_3">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X1_3 X2_4 X3_4</parents>
+			<resultingstates>S3 S2 S2 S1 S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y2_5">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X2_4 X3_4 X3_6</parents>
+			<resultingstates>S3 S2 S2 S1 S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y2_6">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X3_6</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y2_7">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X3_6</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y2_12">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X3_13</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y2_13">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X2_14 X3_13</parents>
+			<resultingstates>S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y2_15">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X2_14</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y3_0">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X2_1</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y3_1">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X2_1</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y3_2">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X2_1 X4_3</parents>
+			<resultingstates>S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y3_3">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X2_4 X3_4 X4_3</parents>
+			<resultingstates>S3 S2 S2 S1 S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y3_5">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X2_4 X3_4 X3_6</parents>
+			<resultingstates>S3 S2 S2 S1 S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y3_7">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X3_6 X4_8</parents>
+			<resultingstates>S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y3_8">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X4_8</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y3_9">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X4_8</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y3_12">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X3_13 X4_13</parents>
+			<resultingstates>S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y3_14">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X2_14 X3_13 X4_13</parents>
+			<resultingstates>S3 S2 S2 S1 S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y3_15">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X2_14</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y4_2">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X4_3</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y4_4">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X3_4 X4_3</parents>
+			<resultingstates>S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y4_5">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X3_4 X3_6</parents>
+			<resultingstates>S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y4_6">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X3_6</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y4_7">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X3_6 X4_8</parents>
+			<resultingstates>S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y4_9">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X4_8</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y4_12">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X3_13 X4_13</parents>
+			<resultingstates>S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y4_14">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X3_13 X4_13 X5_15</parents>
+			<resultingstates>S3 S2 S2 S1 S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y4_15">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X5_15</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y5_2">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X4_3</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y5_3">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X4_3</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y5_4">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X4_3</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y5_7">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X4_8</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y5_8">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X4_8</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y5_9">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X4_8</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y5_10">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X6_11</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y5_11">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X6_11</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y5_12">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X4_13 X6_11</parents>
+			<resultingstates>S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y5_13">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X4_13</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y5_14">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X4_13 X5_15 X6_15</parents>
+			<resultingstates>S3 S2 S2 S1 S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y6_1">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X7_2</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y6_2">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X7_2</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y6_3">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X7_2</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y6_9">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X7_10</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y6_10">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X6_11 X7_10</parents>
+			<resultingstates>S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y6_12">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X6_11</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y6_14">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X5_15 X6_15</parents>
+			<resultingstates>S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y7_1">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X7_2</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y7_3">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X7_2 X8_3</parents>
+			<resultingstates>S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y7_4">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X8_3</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y7_8">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X8_9</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y7_9">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X7_10 X8_9</parents>
+			<resultingstates>S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y7_11">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X6_11 X7_10 X8_11</parents>
+			<resultingstates>S3 S2 S2 S1 S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y7_12">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X6_11 X8_11</parents>
+			<resultingstates>S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y7_14">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X6_15</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y7_15">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X6_15</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y8_1">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X7_2</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y8_2">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X7_2 X8_3</parents>
+			<resultingstates>S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y8_4">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X8_3 X9_5</parents>
+			<resultingstates>S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y8_5">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X9_5</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y8_6">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X9_5</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y8_8">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X8_9 X9_9</parents>
+			<resultingstates>S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y8_10">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X7_10 X8_9 X8_11 X9_9 X9_11</parents>
+			<resultingstates>S5 S4 S4 S3 S4 S3 S3 S2 S4 S3 S3 S2 S3 S2 S2 S1 S4 S3 S3 S2 S3 S2 S2 S1 S3 S2 S2 S1 S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y8_12">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X8_11 X9_11 X9_13</parents>
+			<resultingstates>S3 S2 S2 S1 S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y8_13">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X9_13 X9_14</parents>
+			<resultingstates>S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y8_14">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X9_13 X9_14 X9_15</parents>
+			<resultingstates>S3 S2 S2 S1 S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y8_15">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X9_14 X9_15</parents>
+			<resultingstates>S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y9_2">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X8_3</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y9_3">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X8_3</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y9_4">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X8_3 X9_5</parents>
+			<resultingstates>S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y9_6">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X9_5</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y9_8">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X8_9 X9_9</parents>
+			<resultingstates>S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y9_10">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X8_9 X8_11 X9_9 X9_11</parents>
+			<resultingstates>S4 S3 S3 S2 S3 S2 S2 S1 S3 S2 S2 S1 S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y9_12">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X8_11 X9_11 X9_13</parents>
+			<resultingstates>S3 S2 S2 S1 S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y10_2">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X11_3</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y10_3">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X11_3</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y10_4">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X9_5 X11_3</parents>
+			<resultingstates>S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y10_5">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X9_5</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y10_6">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X9_5</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y10_8">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X9_9</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y10_9">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X9_9</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y10_10">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X9_9 X9_11</parents>
+			<resultingstates>S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y10_11">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X9_11</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y10_12">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X9_11 X9_13</parents>
+			<resultingstates>S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y10_13">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X9_13 X9_14 X10_14</parents>
+			<resultingstates>S3 S2 S2 S1 S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y10_15">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X9_14 X9_15 X10_14</parents>
+			<resultingstates>S3 S2 S2 S1 S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y11_0">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X12_1</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y11_1">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X12_1</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y11_2">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X11_3 X12_1</parents>
+			<resultingstates>S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y11_4">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X11_3</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y11_10">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X12_11</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y11_11">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X12_11</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y11_12">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X12_11</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y11_13">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X10_14</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y11_14">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X10_14</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y11_15">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X10_14</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y12_0">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X12_1</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y12_2">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X11_3 X12_1 X13_3</parents>
+			<resultingstates>S3 S2 S2 S1 S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y12_3">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X11_3 X13_3</parents>
+			<resultingstates>S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y12_4">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X11_3 X13_3</parents>
+			<resultingstates>S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y12_5">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X13_6</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y12_6">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X13_6</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y12_7">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X13_6</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y12_10">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X12_11 X13_11</parents>
+			<resultingstates>S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y12_12">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X12_11 X13_11 X13_13</parents>
+			<resultingstates>S3 S2 S2 S1 S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y12_13">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X13_13 X13_14</parents>
+			<resultingstates>S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y12_14">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X13_13 X13_14</parents>
+			<resultingstates>S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y12_15">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X13_14</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y13_0">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X12_1</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y13_1">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X12_1</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y13_2">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X12_1 X13_3</parents>
+			<resultingstates>S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y13_4">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X13_3</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y13_5">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X13_6</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y13_7">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X13_6</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y13_8">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X14_9</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y13_9">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X14_9 X14_10</parents>
+			<resultingstates>S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y13_10">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X12_11 X13_11 X14_9 X14_10</parents>
+			<resultingstates>S4 S3 S3 S2 S3 S2 S2 S1 S3 S2 S2 S1 S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y13_12">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X12_11 X13_11 X13_13</parents>
+			<resultingstates>S3 S2 S2 S1 S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y13_15">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X13_14</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y14_1">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X15_2</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y14_2">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X13_3 X15_2</parents>
+			<resultingstates>S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y14_3">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X13_3 X15_2 X15_4</parents>
+			<resultingstates>S3 S2 S2 S1 S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y14_4">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X13_3 X15_4 X15_5</parents>
+			<resultingstates>S3 S2 S2 S1 S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y14_5">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X13_6 X15_4 X15_5</parents>
+			<resultingstates>S3 S2 S2 S1 S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y14_6">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X13_6 X15_5</parents>
+			<resultingstates>S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y14_7">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X13_6</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y14_8">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X14_9</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y14_11">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X13_11 X14_10</parents>
+			<resultingstates>S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y14_12">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X13_11 X13_13</parents>
+			<resultingstates>S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y14_13">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X13_13 X13_14 X15_14</parents>
+			<resultingstates>S3 S2 S2 S1 S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y14_14">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X13_13 X13_14 X15_14 X15_15</parents>
+			<resultingstates>S4 S3 S3 S2 S3 S2 S2 S1 S3 S2 S2 S1 S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y14_15">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X13_14 X15_14 X15_15</parents>
+			<resultingstates>S3 S2 S2 S1 S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y15_1">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X15_2</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y15_3">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X15_2 X15_4</parents>
+			<resultingstates>S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y15_6">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X15_5</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y15_8">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X14_9</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y15_9">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X14_9 X14_10</parents>
+			<resultingstates>S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y15_10">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X14_9 X14_10</parents>
+			<resultingstates>S2 S1 S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y15_11">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X14_10</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+		<deterministic id="Y15_13">
+			<state id="S0" />
+			<state id="S1" />
+			<state id="S2" />
+			<state id="S3" />
+			<state id="S4" />
+			<state id="S5" />
+			<state id="S6" />
+			<state id="S7" />
+			<state id="S8" />
+			<parents>X15_14</parents>
+			<resultingstates>S1 S0</resultingstates>
+		</deterministic>
+	</nodes>
+	<extensions>
+		<genie version="1.0" app="SMILE Feb 18 2012" name="Unnamed" faultnameformat="nodestate">
+			<node id="X1_1">
+				<name>X1_1</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="X1_3">
+				<name>X1_3</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="X2_1">
+				<name>X2_1</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="X2_4">
+				<name>X2_4</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="X2_14">
+				<name>X2_14</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="X3_4">
+				<name>X3_4</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="X3_6">
+				<name>X3_6</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="X3_13">
+				<name>X3_13</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="X4_3">
+				<name>X4_3</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="X4_8">
+				<name>X4_8</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="X4_13">
+				<name>X4_13</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="X5_15">
+				<name>X5_15</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="X6_11">
+				<name>X6_11</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="X6_15">
+				<name>X6_15</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="X7_2">
+				<name>X7_2</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="X7_10">
+				<name>X7_10</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="X8_3">
+				<name>X8_3</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="X8_9">
+				<name>X8_9</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="X8_11">
+				<name>X8_11</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="X9_5">
+				<name>X9_5</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="X9_9">
+				<name>X9_9</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="X9_11">
+				<name>X9_11</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="X9_13">
+				<name>X9_13</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="X9_14">
+				<name>X9_14</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="X9_15">
+				<name>X9_15</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="X10_14">
+				<name>X10_14</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="X11_3">
+				<name>X11_3</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="X12_1">
+				<name>X12_1</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="X12_11">
+				<name>X12_11</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="X13_3">
+				<name>X13_3</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="X13_6">
+				<name>X13_6</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="X13_11">
+				<name>X13_11</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="X13_13">
+				<name>X13_13</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="X13_14">
+				<name>X13_14</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="X14_9">
+				<name>X14_9</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="X14_10">
+				<name>X14_10</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="X15_2">
+				<name>X15_2</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="X15_4">
+				<name>X15_4</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="X15_5">
+				<name>X15_5</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="X15_14">
+				<name>X15_14</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="X15_15">
+				<name>X15_15</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y0_0">
+				<name>Y0_0</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y0_1">
+				<name>Y0_1</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y0_2">
+				<name>Y0_2</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y0_3">
+				<name>Y0_3</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y0_4">
+				<name>Y0_4</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y1_0">
+				<name>Y1_0</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y1_2">
+				<name>Y1_2</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y1_4">
+				<name>Y1_4</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y1_5">
+				<name>Y1_5</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y1_13">
+				<name>Y1_13</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y1_14">
+				<name>Y1_14</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y1_15">
+				<name>Y1_15</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y2_0">
+				<name>Y2_0</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y2_2">
+				<name>Y2_2</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y2_3">
+				<name>Y2_3</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y2_5">
+				<name>Y2_5</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y2_6">
+				<name>Y2_6</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y2_7">
+				<name>Y2_7</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y2_12">
+				<name>Y2_12</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y2_13">
+				<name>Y2_13</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y2_15">
+				<name>Y2_15</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y3_0">
+				<name>Y3_0</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y3_1">
+				<name>Y3_1</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y3_2">
+				<name>Y3_2</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y3_3">
+				<name>Y3_3</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y3_5">
+				<name>Y3_5</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y3_7">
+				<name>Y3_7</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y3_8">
+				<name>Y3_8</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y3_9">
+				<name>Y3_9</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y3_12">
+				<name>Y3_12</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y3_14">
+				<name>Y3_14</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y3_15">
+				<name>Y3_15</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y4_2">
+				<name>Y4_2</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y4_4">
+				<name>Y4_4</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y4_5">
+				<name>Y4_5</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y4_6">
+				<name>Y4_6</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y4_7">
+				<name>Y4_7</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y4_9">
+				<name>Y4_9</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y4_12">
+				<name>Y4_12</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y4_14">
+				<name>Y4_14</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y4_15">
+				<name>Y4_15</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y5_2">
+				<name>Y5_2</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y5_3">
+				<name>Y5_3</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y5_4">
+				<name>Y5_4</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y5_7">
+				<name>Y5_7</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y5_8">
+				<name>Y5_8</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y5_9">
+				<name>Y5_9</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y5_10">
+				<name>Y5_10</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y5_11">
+				<name>Y5_11</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y5_12">
+				<name>Y5_12</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y5_13">
+				<name>Y5_13</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y5_14">
+				<name>Y5_14</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y6_1">
+				<name>Y6_1</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y6_2">
+				<name>Y6_2</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y6_3">
+				<name>Y6_3</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y6_9">
+				<name>Y6_9</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y6_10">
+				<name>Y6_10</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y6_12">
+				<name>Y6_12</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y6_14">
+				<name>Y6_14</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y7_1">
+				<name>Y7_1</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y7_3">
+				<name>Y7_3</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y7_4">
+				<name>Y7_4</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y7_8">
+				<name>Y7_8</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y7_9">
+				<name>Y7_9</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y7_11">
+				<name>Y7_11</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y7_12">
+				<name>Y7_12</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y7_14">
+				<name>Y7_14</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y7_15">
+				<name>Y7_15</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y8_1">
+				<name>Y8_1</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y8_2">
+				<name>Y8_2</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y8_4">
+				<name>Y8_4</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y8_5">
+				<name>Y8_5</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y8_6">
+				<name>Y8_6</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y8_8">
+				<name>Y8_8</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y8_10">
+				<name>Y8_10</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y8_12">
+				<name>Y8_12</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y8_13">
+				<name>Y8_13</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y8_14">
+				<name>Y8_14</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y8_15">
+				<name>Y8_15</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y9_2">
+				<name>Y9_2</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y9_3">
+				<name>Y9_3</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y9_4">
+				<name>Y9_4</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y9_6">
+				<name>Y9_6</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y9_8">
+				<name>Y9_8</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y9_10">
+				<name>Y9_10</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y9_12">
+				<name>Y9_12</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y10_2">
+				<name>Y10_2</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y10_3">
+				<name>Y10_3</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y10_4">
+				<name>Y10_4</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y10_5">
+				<name>Y10_5</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y10_6">
+				<name>Y10_6</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y10_8">
+				<name>Y10_8</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y10_9">
+				<name>Y10_9</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y10_10">
+				<name>Y10_10</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y10_11">
+				<name>Y10_11</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y10_12">
+				<name>Y10_12</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y10_13">
+				<name>Y10_13</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y10_15">
+				<name>Y10_15</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y11_0">
+				<name>Y11_0</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y11_1">
+				<name>Y11_1</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y11_2">
+				<name>Y11_2</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y11_4">
+				<name>Y11_4</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y11_10">
+				<name>Y11_10</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y11_11">
+				<name>Y11_11</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y11_12">
+				<name>Y11_12</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y11_13">
+				<name>Y11_13</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y11_14">
+				<name>Y11_14</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y11_15">
+				<name>Y11_15</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y12_0">
+				<name>Y12_0</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y12_2">
+				<name>Y12_2</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y12_3">
+				<name>Y12_3</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y12_4">
+				<name>Y12_4</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y12_5">
+				<name>Y12_5</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y12_6">
+				<name>Y12_6</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y12_7">
+				<name>Y12_7</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y12_10">
+				<name>Y12_10</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y12_12">
+				<name>Y12_12</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y12_13">
+				<name>Y12_13</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y12_14">
+				<name>Y12_14</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y12_15">
+				<name>Y12_15</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y13_0">
+				<name>Y13_0</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y13_1">
+				<name>Y13_1</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y13_2">
+				<name>Y13_2</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y13_4">
+				<name>Y13_4</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y13_5">
+				<name>Y13_5</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y13_7">
+				<name>Y13_7</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y13_8">
+				<name>Y13_8</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y13_9">
+				<name>Y13_9</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y13_10">
+				<name>Y13_10</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y13_12">
+				<name>Y13_12</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y13_15">
+				<name>Y13_15</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y14_1">
+				<name>Y14_1</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y14_2">
+				<name>Y14_2</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y14_3">
+				<name>Y14_3</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y14_4">
+				<name>Y14_4</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y14_5">
+				<name>Y14_5</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y14_6">
+				<name>Y14_6</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y14_7">
+				<name>Y14_7</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y14_8">
+				<name>Y14_8</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y14_11">
+				<name>Y14_11</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y14_12">
+				<name>Y14_12</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y14_13">
+				<name>Y14_13</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y14_14">
+				<name>Y14_14</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y14_15">
+				<name>Y14_15</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y15_1">
+				<name>Y15_1</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y15_3">
+				<name>Y15_3</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y15_6">
+				<name>Y15_6</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y15_8">
+				<name>Y15_8</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y15_9">
+				<name>Y15_9</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y15_10">
+				<name>Y15_10</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y15_11">
+				<name>Y15_11</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+			<node id="Y15_13">
+				<name>Y15_13</name>
+				<interior color="e5f6f7" />
+				<outline color="0000bb" />
+				<font color="000000" name="MS Sans Serif" size="8" />
+				<position>-38 -18 38 18</position>
+			</node>
+		</genie>
+	</extensions>
+</smile>
